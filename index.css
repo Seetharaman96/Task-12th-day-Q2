@@ -1,0 +1,164 @@
+.Name{
+    width: auto;
+    height: 400px;
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.Name span{
+    color: rgb(180,180,180);
+}
+.about1{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.about2{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.about3{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 130px;
+}
+.title2{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 130px;
+}
+.Bio{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    font-size: x-large;
+    color: black;
+}
+.description{
+    color: rgb(90,90,90);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.kni{
+    width: 400px;
+    height: 490px;
+}
+.lm{
+    position: relative;
+    width: 150px;
+    height: 150px;
+}
+.videoslogo{
+    position: relative;
+    width: 150px;
+    height: 150px;
+}
+.bookslogo{
+    position: relative;
+    width: 150px;
+    height: 150px;
+}
+.images{
+    display: flex;
+    justify-content: center;
+}
+.quotes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 150px;
+    background-color: black;
+    color: rgb(180,180,180);
+    bottom: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+.hr{
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.achievements p{
+    color: black;
+}
+.achievements{
+    color: rgb(90,90,90);
+    display: flex;
+    margin-left: 30px;
+    justify-content: space-evenly;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.achievements1{
+    border-radius: 5px;
+    width: 250px;
+    height: 130px;
+    border: 1px solid black;
+}
+.achievements2{
+    border-radius: 5px;
+    width: 250px;
+    height: 130px;
+    border: 1px solid black;
+}
+.achievements3{
+    border-radius: 5px;
+    width: 250px;
+    height: 130px;
+    border: 1px solid black;
+}
+.achievements4{
+    border-radius: 5px;
+    width: 250px;
+    height: 130px;
+    border: 1px solid black;
+}
+.hr2{
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.poem-poetry{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: rgb(90,90,90);
+}
+.conclusion{
+    display: flex;
+    align-items: center;
+    width: auto;
+    height: 200px;
+    background-color: black;
+    color: whitesmoke;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.conclusion span{
+    color: rgb(90,90,90);
+}
+.author{
+    margin-left: 20px;
+}
+.tech{
+    border-left: 1px solid grey;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.disclaimer{
+    border-left: 1px solid grey;
+    margin-left: 20px;
+}
+.disclaimer a{
+    text-decoration: none;
+}
